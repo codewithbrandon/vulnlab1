@@ -48,7 +48,6 @@ Example below.
 
  # Mitigation and Containment
  - P1: Immediate Patching: The core vulnerability, CVE-2020-35848 (CVSS 9.8), must be eliminated by upgrading the Cockpit CMS to version 0.11.2 or later.
- - Containment Action (Network): The attack source IP (89.144.44.2) was flagged with 30 abuse reports and identified as a suspicious Data Center host. This intelligence justifies an immediate, high-confidence block at the perimeter firewall.
  - Asset Isolation: All internal servers running the vulnerable Cockpit CMS must be isolated from public network access immediately until the patch is successfully deployed and verified.
  - Vulnerability Remediation: The patch focuses on improving input validation in the affected newpassword function, eliminating the NoSQL injection flaw.
 
