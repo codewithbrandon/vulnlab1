@@ -33,7 +33,7 @@ Example below.
 *Ref 3: Find Patch/Mitigation*
 <img src="vulnlab1/ref3.png" />
 
-- Mitigation Strategy:This step provided the immediate action plan for the P1 incident, confirming the required mitigation is to upgrade Cockpit CMS to version 0.11.2 or later.
+- Mitigation Strategy: This step provided the immediate action plan for the P1 incident, confirming the required mitigation is to upgrade Cockpit CMS to version 0.11.2 or later.
 - Active Threat Confirmation : The review of threat intelligence noted that GreyNoise has confirmed active exploitation attempts in the wild. This finding was critical for elevating the incident to an urgent priority for the executive report.
 
 
